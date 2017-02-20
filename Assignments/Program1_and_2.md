@@ -1,3 +1,4 @@
+```cpp
 /**
 * @ProgramName: Program-1 and 2
 * @Author:Stephen Puthenpurackal
@@ -222,3 +223,4 @@ int main() {
 
 	return 0;
 }
+```
