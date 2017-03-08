@@ -1,5 +1,4 @@
 ```cpp
-/**
 * @ProgramName: Binary Search
 * @Author: 1063 Team  
 * @Description: 
@@ -196,4 +195,4 @@ int main(){
 
   return 0;
 }
-**/
+
