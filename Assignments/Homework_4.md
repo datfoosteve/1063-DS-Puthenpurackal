@@ -1,6 +1,6 @@
 ```cpp
 
-/*
+/**
 * @ProgramName: Binary Search
 * @Author: 1063 Team  
 * @Description: 
@@ -16,7 +16,7 @@
 
 using namespace std;
 
-/*
+/**
 * @FunctionName: sorted
 * @Description: 
 *     Sorts an array of integers in ascending or descending order
@@ -54,7 +54,7 @@ void sorted(int *a,int size,string direction="desc"){
   }
 }
 
-/*
+/**
 * @FunctionName: exists
 * @Description: 
 *     Checks if value exists in array
@@ -76,7 +76,7 @@ bool exists(int *data, int size,int key){
 }
 
 
-/*
+/**
 * @FunctionName: unique_items
 * @Description: 
 *     Generates an array of unique integers
@@ -112,7 +112,7 @@ int* unique_items(int size,string direction){
 }
 
 
-/*
+/**
 * @FunctionName: Sumvalue
 * @Description: 
 *    Uses binary search to sum the values in the array
@@ -133,7 +133,7 @@ int SumValue(int* data, int size){
  
 
 
-/*
+/**
 * @FunctionName: BinarySearch
 * @Description: 
 *     Implementation of a binary search on an array of values
@@ -172,7 +172,7 @@ int BinarySearch(int* data,int key,int size){
   return -1;
 }
 
-/*
+/**
 * @FunctionName: main
 * @Description: 
 *     Driver for program that creates an array of unique integers and 
