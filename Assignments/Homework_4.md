@@ -71,7 +71,7 @@ bool exists(int *data, int size,int key){
     }
   }
   return false;
-}*/
+}
 
 
 /*
