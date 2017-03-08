@@ -107,7 +107,7 @@ int* unique_items(int size,string direction){
   
   return data;
 }
-*/
+
 
 /*
 * @FunctionName: Sumvalue
