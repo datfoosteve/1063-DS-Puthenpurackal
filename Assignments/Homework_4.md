@@ -1,4 +1,5 @@
 ```cpp
+
 /*
 * @ProgramName: Binary Search
 * @Author: 1063 Team  
@@ -64,6 +65,7 @@ void sorted(int *a,int size,string direction="desc"){
 * @Returns:
 *    bool - true = key exists / false = not in array
 */
+
 bool exists(int *data, int size,int key){
   for(int i=0;i<size;i++){
     if(data[i] == key){
@@ -84,6 +86,7 @@ bool exists(int *data, int size,int key){
 * @Returns:
 *    int* - pointer to newly allocated array
 */
+
 int* unique_items(int size,string direction){
   
   int *data;
@@ -199,3 +202,4 @@ int main(){
   return 0;
 }
 
+cpp```
